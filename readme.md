@@ -3,7 +3,6 @@
 This is a program which exercises an interesting algorithm I found while traversing the internet.
 
 ## The Algorythm
----
 
 We start with an integer. This integer must abide by some rules. It must be four digits, and at least one of the digits must be different from the rest. So integers like 1211, 1298, and 8564 work. Integers like 1111, 2222, and 9999 do not. The reason for this will become evident later.
 
@@ -21,7 +20,6 @@ $$7432 - 2347 = 5085$$
 What is interesting, is that no mater what integer we start with (so long as it follows our rules), this process will always converge to *Kaprekar's Constant*.
 
 ## Running the Code
----
 
 Run the program using the command, replacing '####' with your integer of choice:
 ```
